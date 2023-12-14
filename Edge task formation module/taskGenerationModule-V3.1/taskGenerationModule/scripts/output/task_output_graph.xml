@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graph>
+    <node name="task_0">
+        <edges>
+            <edge>
+                <vertex>3</vertex>
+                <weight>201</weight>
+            </edge>
+            <edge>
+                <vertex>2</vertex>
+                <weight>391</weight>
+            </edge>
+            <edge>
+                <vertex>4</vertex>
+                <weight>6</weight>
+            </edge>
+            <edge>
+                <vertex>1</vertex>
+                <weight>149</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="task_1">
+        <edges>
+            <edge>
+                <vertex>0</vertex>
+                <weight>21</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="task_2">
+        <edges>
+            <edge>
+                <vertex>6</vertex>
+                <weight>90</weight>
+            </edge>
+            <edge>
+                <vertex>0</vertex>
+                <weight>420</weight>
+            </edge>
+            <edge>
+                <vertex>5</vertex>
+                <weight>179</weight>
+            </edge>
+            <edge>
+                <vertex>3</vertex>
+                <weight>47</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="task_3">
+        <edges>
+            <edge>
+                <vertex>0</vertex>
+                <weight>168</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="task_4">
+        <edges>
+            <edge>
+                <vertex>0</vertex>
+                <weight>101</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="task_5">
+        <edges/>
+    </node>
+    <node name="task_6">
+        <edges>
+            <edge>
+                <vertex>8</vertex>
+                <weight>5</weight>
+            </edge>
+            <edge>
+                <vertex>7</vertex>
+                <weight>23</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="task_7">
+        <edges/>
+    </node>
+    <node name="task_8">
+        <edges/>
+    </node>
+</graph>

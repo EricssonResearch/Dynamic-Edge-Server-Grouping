@@ -1,0 +1,270 @@
+<?xml version="1.0"?>
+<graph>
+    <node name="node_0">
+        <edges>
+            <edge>
+                <vertex>1</vertex>
+                <weight>104</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_1">
+        <edges>
+            <edge>
+                <vertex>2</vertex>
+                <weight>57</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_2">
+        <edges>
+            <edge>
+                <vertex>3</vertex>
+                <weight>190</weight>
+            </edge>
+            <edge>
+                <vertex>5</vertex>
+                <weight>98</weight>
+            </edge>
+            <edge>
+                <vertex>17</vertex>
+                <weight>13</weight>
+            </edge>
+            <edge>
+                <vertex>9</vertex>
+                <weight>119</weight>
+            </edge>
+            <edge>
+                <vertex>7</vertex>
+                <weight>74</weight>
+            </edge>
+            <edge>
+                <vertex>6</vertex>
+                <weight>87</weight>
+            </edge>
+            <edge>
+                <vertex>18</vertex>
+                <weight>143</weight>
+            </edge>
+            <edge>
+                <vertex>15</vertex>
+                <weight>29</weight>
+            </edge>
+            <edge>
+                <vertex>7</vertex>
+                <weight>74</weight>
+            </edge>
+            <edge>
+                <vertex>21</vertex>
+                <weight>74</weight>
+            </edge>
+            <edge>
+                <vertex>22</vertex>
+                <weight>6</weight>
+            </edge>
+            <edge>
+                <vertex>23</vertex>
+                <weight>149</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_3">
+        <edges>
+            <edge>
+                <vertex>9</vertex>
+                <weight>175</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_4">
+        <edges>
+            <edge>
+                <vertex>5</vertex>
+                <weight>14</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_5">
+        <edges>
+           <edge>
+                <vertex>16</vertex>
+                <weight>124</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_6">
+        <edges>
+            <edge>
+                <vertex>8</vertex>
+                <weight>90</weight>
+            </edge>
+            <edge>
+                <vertex>7</vertex>
+                <weight>193</weight>
+            </edge>
+            <edge>
+                <vertex>17</vertex>
+                <weight>158</weight>
+            </edge>
+            <edge>
+                <vertex>18</vertex>
+                <weight>129</weight>
+            </edge>
+            <edge>
+                <vertex>19</vertex>
+                <weight>33</weight>
+            </edge>
+            <edge>
+                <vertex>13</vertex>
+                <weight>57</weight>
+            </edge>
+            <edge>
+                <vertex>14</vertex>
+                <weight>179</weight>
+            </edge>
+            <edge>
+                <vertex>4</vertex>
+                <weight>47</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_7">
+        <edges>
+            <edge>
+                <vertex>16</vertex>
+                <weight>128</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_8">
+        <edges>
+            <edge>
+                <vertex>10</vertex>
+                <weight>5</weight>
+            </edge>
+            <edge>
+                <vertex>11</vertex>
+                <weight>23</weight>
+            </edge>
+            <edge>
+                <vertex>12</vertex>
+                <weight>54</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_9">
+        <edges>
+            <edge>
+                <vertex>16</vertex>
+                <weight>153</weight>
+            </edge>
+            <edge>
+                <vertex>17</vertex>
+                <weight>143</weight>
+            </edge>
+            <edge>
+                <vertex>18</vertex>
+                <weight>97</weight>
+            </edge>
+            <edge>
+                <vertex>13</vertex>
+                <weight>39</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_10">
+        <edges></edges>
+    </node>
+    <node name="node_11">
+        <edges></edges>
+    </node>
+    <node name="node_12">
+        <edges></edges>
+    </node>
+    <node name="node_13">
+        <edges>
+            <edge>
+                <vertex>19</vertex>
+                <weight>164</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_14">
+        <edges>
+            <edge>
+                <vertex>20</vertex>
+                <weight>86</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_15">
+        <edges>
+            <edge>
+                <vertex>19</vertex>
+                <weight>44</weight>
+            </edge>
+            <edge>
+                <vertex>4</vertex>
+                <weight>97</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_16">
+        <edges>
+            <edge>
+                <vertex>19</vertex>
+                <weight>130</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_17">
+        <edges>
+            <edge>
+                <vertex>19</vertex>
+                <weight>38</weight>
+            </edge>
+            <edge>
+                <vertex>18</vertex>
+                <weight>35</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_18">
+        <edges>
+            <edge>
+                <vertex>19</vertex>
+                <weight>101</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_19">
+        <edges></edges>
+    </node>
+    <node name="node_20">
+        <edges></edges>
+    </node>
+    <node name="node_21">
+        <edges>
+            <edge>
+                <vertex>15</vertex>
+                <weight>173</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_22">
+        <edges>
+            <edge>
+                <vertex>19</vertex>
+                <weight>101</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_23">
+        <edges>
+            <edge>
+                <vertex>19</vertex>
+                <weight>21</weight>
+            </edge>
+        </edges>
+    </node>
+</graph>

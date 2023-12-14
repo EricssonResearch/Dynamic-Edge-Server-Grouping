@@ -1,0 +1,129 @@
+------------------
+MicroService.java
+------------------
+
+Variables
+=========
+
+1. private int id
+2. private int cores
+3. private int memory
+4. private double executionTime
+5. private int taskGroupId
+6. private static ArrayList<MicroService> microServiceList
+
+
+Methods
+=======
+
+1. private MicroService(int _id, int _cores, int _memory, double _executionTime)
+2. private static void addToMicroServiceList(MicroService instance)
+3. public static void createInstance(int _id, int _cores, int _memory, double _executionTime)
+4. public static int getMicroServiceListSize() => microServiceList size
+5. public static ArrayList<MicroService> getMicroServiceList() => whole microServiceList
+6. public int getMicroServiceId() => id
+7. public int getMicroServiceCores() => cores
+8. public int getMicroServiceMemory() => memory
+9. public double getMicroServiceExecutionTime() => executionTime
+10. public void assignTaskGroupId(int _taskGroupId)
+11. public int getTaskGroupId() => task group id
+12. public boolean isAssignToTask() => assigned to task or not
+
+
+
+
+
+------------------
+EdgeServer.java
+------------------
+
+Variables
+=========
+
+1. private int id
+2. private int cores
+3. private int memory
+4. private static ArrayList<EdgeServer> edgeServerList
+
+
+Methods
+=======
+
+1. private EdgeServer(int _id, int _cores, int _memory)
+2. private static void addToEdgeServerList(EdgeServer instance)
+3. public static void createInstance(int _id, int _cores, int _memory)
+4. public static int getEdgeServerListSize() => edgeServerList size
+5. public static ArrayList<EdgeServer> getEdgeServerList() => whole edgeServerList
+6. public int getEdgeServerId() => id
+7. public int getEdgeServerCores() => cores
+8. public int getEdgeServerMemory() => memory
+
+
+
+
+------------------
+InputGraph.java
+------------------
+
+Variables
+=========
+
+1. private static InputGraph instance
+2. private int noOfVertices
+3. private int noOfEdges
+4. private ArrayList<Integer> vertices
+5. private ArrayList<Pair>[] edges
+6. private ArrayList<Pair>[] parents
+7. private int[] inDegree
+
+
+Methods
+=======
+
+1. private InputGraph()
+2. public static InputGraph getInstance() => input graph instance
+3. public void addEdge(int sourceVertex, int destinantionVertex, int weight)
+4. public ArrayList<Pair> getEdgesFromVertex(int sourceVertex) => list of vertices reachable from the sourceVertex
+5. public int[] getIndegree() => inDegree array 
+6. public ArrayList<Pair> getParentList(int vertex) => list of parent <vertex, weight> of corresponding vertex
+7. public ArrayList<Pair> getEdgeList(int vertex) => list of child vertices <vertex, weight> of corresponding vertex
+8. public int getMaxOutEdgeWeight(int vertex) => maximum outgoing edge weight from a particular vertex
+9. public int getNoOfVertices() => no. of vertices in input graph
+
+
+
+
+------------------
+Task.java
+------------------
+
+Variables
+=========
+
+1. private int id
+2. private int cores
+3. private int memory
+4. private double executionTime
+5. private static ArrayList<Task> taskList
+6. private boolean resourceIntensive
+7. private boolean executionTimeIntensive
+8. private ArrayList<MicroService> microServiceList
+
+
+Methods
+=======
+
+1. private Task(int _id, int _cores, int _memory, double _executionTime)
+2. private static void addToTaskList(Task instance)
+3. public static Task createInstance(MicroService microServiceInstance) => task instance
+4. public static ArrayList<Task> getTaskList() => taskList
+5. public void setResourceIntensive()
+6. public void setExecutionTimeIntensive()
+7. public int getTaskId() => task id
+8. public int getTaskCores() => cores
+9. public int getTaskMemory() => memory
+10. public double getTaskExecutionTime() => executionTime
+11. public boolean isResourceIntensive() => true / false
+12. public boolean isExecutionTimeIntensive() => true / false
+13. public ArrayList<MicroService> getMicroServiceListOfTask() => microServiceList
+14. public void addMicroServiceToTask(MicroService microServiceInstance)

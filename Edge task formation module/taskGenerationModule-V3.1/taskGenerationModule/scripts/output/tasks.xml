@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tasks>
+    <task name="task_0">
+        <microservice>m0</microservice>
+        <microservice>m1</microservice>
+        <microservice>m2</microservice>
+        <microservice>m3</microservice>
+        <microservice>m9</microservice>
+        <microservice>m13</microservice>
+        <microservice>m18</microservice>
+        <microservice>m16</microservice>
+        <microservice>m19</microservice>
+    </task>
+    <task name="task_1">
+        <microservice>m23</microservice>
+    </task>
+    <task name="task_2">
+        <microservice>m6</microservice>
+        <microservice>m7</microservice>
+        <microservice>m17</microservice>
+    </task>
+    <task name="task_3">
+        <microservice>m21</microservice>
+        <microservice>m15</microservice>
+        <microservice>m4</microservice>
+        <microservice>m5</microservice>
+    </task>
+    <task name="task_4">
+        <microservice>m22</microservice>
+    </task>
+    <task name="task_5">
+        <microservice>m14</microservice>
+        <microservice>m20</microservice>
+    </task>
+    <task name="task_6">
+        <microservice>m8</microservice>
+        <microservice>m12</microservice>
+    </task>
+    <task name="task_7">
+        <microservice>m11</microservice>
+    </task>
+    <task name="task_8">
+        <microservice>m10</microservice>
+    </task>
+</tasks>

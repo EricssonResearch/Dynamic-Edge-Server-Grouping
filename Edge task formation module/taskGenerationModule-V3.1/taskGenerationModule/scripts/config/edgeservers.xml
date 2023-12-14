@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<edgeservers>
+    <edgeserver name="server_0">
+        <cores>10</cores>
+        <memory>16384</memory>
+    </edgeserver>
+    <edgeserver name="server_1">
+        <cores>8</cores>
+        <memory>12288</memory>
+    </edgeserver>
+    <edgeserver name="server_2">
+        <cores>6</cores>
+        <memory>8192</memory>
+    </edgeserver>
+    <edgeserver name="server_3">
+        <cores>10</cores>
+        <memory>16384</memory>
+    </edgeserver>
+    <edgeserver name="server_4">
+        <cores>6</cores>
+        <memory>8192</memory>
+    </edgeserver>
+</edgeservers>

@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<microservices>
+    <microservice name="MICROSERVICE_0">
+        <cores>2</cores>
+        <memory>512</memory>
+        <execution_time>22</execution_time>
+    </microservice>
+    <microservice name="MICROSERVICE_1">
+        <cores>3</cores>
+        <memory>768</memory>
+        <execution_time>28</execution_time>
+    </microservice>
+    <microservice name="MICROSERVICE_2">
+        <cores>4</cores>
+        <memory>1024</memory>
+        <execution_time>20</execution_time>
+    </microservice>
+    <microservice name="MICROSERVICE_3">
+        <cores>2</cores>
+        <memory>512</memory>
+        <execution_time>18</execution_time>
+    </microservice>
+    <microservice name="MICROSERVICE_4">
+        <cores>1</cores>
+        <memory>256</memory>
+        <execution_time>15</execution_time>
+    </microservice>
+    <microservice name="MICROSERVICE_5">
+        <cores>2</cores>
+        <memory>512</memory>
+        <execution_time>25</execution_time>
+    </microservice>
+    <microservice name="MICROSERVICE_6">
+        <cores>3</cores>
+        <memory>768</memory>
+        <execution_time>28</execution_time>
+    </microservice>
+    <microservice name="MICROSERVICE_7">
+        <cores>1</cores>
+        <memory>256</memory>
+        <execution_time>22</execution_time>
+    </microservice>
+    <microservice name="MICROSERVICE_8">
+        <cores>2</cores>
+        <memory>512</memory>
+        <execution_time>26</execution_time>
+    </microservice>
+    <microservice name="MICROSERVICE_9">
+        <cores>4</cores>
+        <memory>1024</memory>
+        <execution_time>200</execution_time>
+    </microservice>
+    <microservice name="MICROSERVICE_10">
+        <cores>1</cores>
+        <memory>256</memory>
+        <execution_time>12</execution_time>
+    </microservice>
+    <microservice name="MICROSERVICE_11">
+        <cores>1</cores>
+        <memory>256</memory>
+        <execution_time>8</execution_time>
+    </microservice>
+    <microservice name="MICROSERVICE_12">
+        <cores>1</cores>
+        <memory>256</memory>
+        <execution_time>15</execution_time>
+    </microservice>
+    <microservice name="MICROSERVICE_13">
+        <cores>2</cores>
+        <memory>512</memory>
+        <execution_time>175</execution_time>
+    </microservice>
+    <microservice name="MICROSERVICE_14">
+        <cores>1</cores>
+        <memory>256</memory>
+        <execution_time>80</execution_time>
+    </microservice>
+    <microservice name="MICROSERVICE_15">
+        <cores>3</cores>
+        <memory>768</memory>
+        <execution_time>22</execution_time>
+    </microservice>
+    <microservice name="MICROSERVICE_16">
+        <cores>2</cores>
+        <memory>512</memory>
+        <execution_time>160</execution_time>
+    </microservice>
+    <microservice name="MICROSERVICE_17">
+        <cores>1</cores>
+        <memory>256</memory>
+        <execution_time>75</execution_time>
+    </microservice>
+    <microservice name="MICROSERVICE_18">
+        <cores>2</cores>
+        <memory>512</memory>
+        <execution_time>90</execution_time>
+    </microservice>
+    <microservice name="MICROSERVICE_19">
+        <cores>4</cores>
+        <memory>1024</memory>
+        <execution_time>250</execution_time>
+    </microservice>
+    <microservice name="MICROSERVICE_20">
+        <cores>1</cores>
+        <memory>256</memory>
+        <execution_time>18</execution_time>
+    </microservice>
+    <microservice name="MICROSERVICE_21">
+        <cores>3</cores>
+        <memory>768</memory>
+        <execution_time>40</execution_time>
+    </microservice>
+    <microservice name="MICROSERVICE_22">
+        <cores>2</cores>
+        <memory>512</memory>
+        <execution_time>30</execution_time>
+    </microservice>
+    <microservice name="MICROSERVICE_23">
+        <cores>4</cores>
+        <memory>1024</memory>
+        <execution_time>150</execution_time>
+    </microservice>
+</microservices>
