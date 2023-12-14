@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<graph>
+    <node name="task_0">
+        <edges>
+            <edge>
+                <vertex>2</vertex>
+                <weight>10</weight>
+            </edge>
+            <edge>
+                <vertex>1</vertex>
+                <weight>15</weight>
+            </edge>
+            <edge>
+                <vertex>3</vertex>
+                <weight>12</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="task_1">
+        <edges>
+            <edge>
+                <vertex>2</vertex>
+                <weight>18</weight>
+            </edge>
+            <edge>
+                <vertex>3</vertex>
+                <weight>23</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="task_2">
+        <edges>
+            <edge>
+                <vertex>4</vertex>
+                <weight>15</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="task_3">
+        <edges>
+            <edge>
+                <vertex>4</vertex>
+                <weight>20</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="task_4">
+        <edges/>
+    </node>
+</graph>

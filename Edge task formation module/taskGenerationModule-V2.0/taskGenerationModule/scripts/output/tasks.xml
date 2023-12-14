@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<tasks>
+    <task name="task_0">
+        <microservice>m0</microservice>
+        <microservice>m3</microservice>
+    </task>
+    <task name="task_1">
+        <microservice>m2</microservice>
+    </task>
+    <task name="task_2">
+        <microservice>m1</microservice>
+        <microservice>m4</microservice>
+    </task>
+    <task name="task_3">
+        <microservice>m5</microservice>
+        <microservice>m6</microservice>
+    </task>
+    <task name="task_4">
+        <microservice>m7</microservice>
+    </task>
+</tasks>
