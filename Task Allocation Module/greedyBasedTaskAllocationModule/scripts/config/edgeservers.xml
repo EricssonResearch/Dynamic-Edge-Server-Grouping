@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<edgeservers>
+    <edgeserver name="edge_1">
+        <memory_capacity>3000</memory_capacity>
+        <computational_capacity>220</computational_capacity>
+        <downlink_datarate>5000</downlink_datarate>
+        <uplink_datarate>7000</uplink_datarate>
+    </edgeserver>
+    <edgeserver name="edge_2">
+        <memory_capacity>2800</memory_capacity>
+        <computational_capacity>270</computational_capacity>
+        <downlink_datarate>8000</downlink_datarate>
+        <uplink_datarate>6000</uplink_datarate>
+    </edgeserver>
+    <edgeserver name="edge_3">
+        <memory_capacity>2500</memory_capacity>
+        <computational_capacity>200</computational_capacity>
+        <downlink_datarate>6000</downlink_datarate>
+        <uplink_datarate>10000</uplink_datarate>
+    </edgeserver>
+</edgeservers>

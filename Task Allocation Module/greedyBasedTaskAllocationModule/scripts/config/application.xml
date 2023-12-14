@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<applications>
+    <application name="app_1">
+        <execution_time_limit>4.5</execution_time_limit>
+        <computational_complexity>0.12</computational_complexity>
+        <tasks>
+            <task name="task_1">
+                <datasize>1250</datasize>
+                <output_datasize>700</output_datasize>
+            </task>
+            <task name="task_2">
+                <datasize>1750</datasize>
+                <output_datasize>800</output_datasize>
+            </task>
+        </tasks>
+    </application>
+    <application name="app_2">
+        <execution_time_limit>6.0</execution_time_limit>
+        <computational_complexity>0.18</computational_complexity>
+        <tasks>
+            <task name="task_1">
+                <datasize>1350</datasize>
+                <output_datasize>650</output_datasize>
+            </task>
+            <task name="task_2">
+                <datasize>1850</datasize>
+                <output_datasize>950</output_datasize>
+            </task>
+            <task name="task_3">
+                <datasize>1450</datasize>
+                <output_datasize>750</output_datasize>
+            </task>
+        </tasks>
+    </application>
+    <application name="app_3">
+        <execution_time_limit>5.5</execution_time_limit>
+        <computational_complexity>0.15</computational_complexity>
+        <tasks>
+            <task name="task_1">
+                <datasize>1300</datasize>
+                <output_datasize>700</output_datasize>
+            </task>
+            <task name="task_2">
+                <datasize>1700</datasize>
+                <output_datasize>800</output_datasize>
+            </task>
+        </tasks>
+    </application>
+    <application name="app_4">
+        <execution_time_limit>6.2</execution_time_limit>
+        <computational_complexity>0.20</computational_complexity>
+        <tasks>
+            <task name="task_1">
+                <datasize>1275</datasize>
+                <output_datasize>625</output_datasize>
+            </task>
+            <task name="task_2">
+                <datasize>1825</datasize>
+                <output_datasize>925</output_datasize>
+            </task>
+            <task name="task_3">
+                <datasize>1375</datasize>
+                <output_datasize>725</output_datasize>
+            </task>
+        </tasks>
+    </application>
+</applications>
