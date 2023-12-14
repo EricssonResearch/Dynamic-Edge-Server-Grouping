@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<graph>
+    <node name="node_0">
+        <edges>
+            <edge>
+                <vertex>1</vertex>
+                <weight>10</weight>
+            </edge>
+            <edge>
+                <vertex>2</vertex>
+                <weight>15</weight>
+            </edge>
+            <edge>
+                <vertex>3</vertex>
+                <weight>12</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_1">
+        <edges>
+            <edge>
+                <vertex>4</vertex>
+                <weight>20</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_2">
+        <edges>
+            <edge>
+                <vertex>4</vertex>
+                <weight>18</weight>
+            </edge>
+            <edge>
+                <vertex>5</vertex>
+                <weight>23</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_3">
+        <edges>
+            <edge>
+                <vertex>6</vertex>
+                <weight>12</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_4">
+        <edges>
+            <edge>
+                <vertex>7</vertex>
+                <weight>15</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_5">
+        <edges>
+           <edge>
+                <vertex>6</vertex>
+                <weight>14</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_6">
+        <edges>
+            <edge>
+                <vertex>7</vertex>
+                <weight>20</weight>
+            </edge>
+        </edges>
+    </node>
+    <node name="node_7">
+        <edges></edges>
+    </node>
+</graph>
