@@ -1,0 +1,357 @@
+<?xml version="1.0"?>
+<applications>
+    <application name="app_1">
+        <execution_time_limit>10.5</execution_time_limit>
+        <computational_complexity>0.12</computational_complexity>
+        <tasks>
+            <task name="task_1">
+                <high_priority>0</high_priority>
+                <core>2</core>
+                <data_size>1850</data_size>
+                <edges>
+                    <edge>
+                        <vertex>2</vertex>
+                        <weight>400</weight>
+                    </edge>
+                    <edge>
+                        <vertex>3</vertex>
+                        <weight>440</weight>
+                    </edge>
+                    <edge>
+                        <vertex>4</vertex>
+                        <weight>420</weight>
+                    </edge>
+                </edges>
+            </task>
+            <task name="task_2">
+                <high_priority>0</high_priority>
+                <core>3</core>
+                <data_size>2250</data_size>
+                <edges>
+                    <edge>
+                        <vertex>5</vertex>
+                        <weight>700</weight>
+                    </edge>
+                    <edge>
+                        <vertex>6</vertex>
+                        <weight>660</weight>
+                    </edge>
+                </edges>
+            </task>
+            <task name="task_3">
+                <high_priority>0</high_priority>
+                <core>3</core>
+                <data_size>1350</data_size>
+                <edges>
+                    <edge>
+                        <vertex>5</vertex>
+                        <weight>320</weight>
+                    </edge>
+                    <edge>
+                        <vertex>6</vertex>
+                        <weight>400</weight>
+                    </edge>
+                </edges>
+            </task>
+            <task name="task_4">
+                <high_priority>0</high_priority>
+                <core>1</core>
+                <data_size>2650</data_size>
+                <edges>
+                    <edge>
+                        <vertex>7</vertex>
+                        <weight>820</weight>
+                    </edge>
+                </edges>
+            </task>
+            <task name="task_5">
+                <high_priority>0</high_priority>
+                <core>1</core>
+                <data_size>1950</data_size>
+                <edges>
+                    <edge>
+                        <vertex>8</vertex>
+                        <weight>470</weight>
+                    </edge>
+                </edges>
+            </task>
+            <task name="task_6">
+                <high_priority>1</high_priority>
+                <core>2</core>
+                <data_size>2980</data_size>
+                <edges>
+                    <edge>
+                        <vertex>8</vertex>
+                        <weight>910</weight>
+                    </edge>
+                </edges>
+            </task>
+            <task name="task_7">
+                <high_priority>0</high_priority>
+                <core>2</core>
+                <data_size>1420</data_size>
+                <edges>
+                    <edge>
+                        <vertex>8</vertex>
+                        <weight>390</weight>
+                    </edge>
+                </edges>
+            </task>
+            <task name="task_8">
+                <high_priority>0</high_priority>
+                <core>1</core>
+                <data_size>1720</data_size>
+                <edges></edges>
+            </task>
+        </tasks>
+    </application>
+
+    <application name="app_2">
+        <execution_time_limit>12.0</execution_time_limit>
+        <computational_complexity>0.18</computational_complexity>
+        <tasks>
+            <task name="task_1">
+                <high_priority>0</high_priority>
+                <core>1</core>
+                <data_size>2030</data_size>
+                <edges>
+                    <edge>
+                        <vertex>2</vertex>
+                        <weight>550</weight>
+                    </edge>
+                    <edge>
+                        <vertex>3</vertex>
+                        <weight>590</weight>
+                    </edge>
+                    <edge>
+                        <vertex>4</vertex>
+                        <weight>630</weight>
+                    </edge>
+                </edges>
+            </task>
+            <task name="task_2">
+                <high_priority>0</high_priority>
+                <core>2</core>
+                <data_size>2390</data_size>
+                <edges>
+                    <edge>
+                        <vertex>3</vertex>
+                        <weight>780</weight>
+                    </edge>
+                    <edge>
+                        <vertex>4</vertex>
+                        <weight>700</weight>
+                    </edge>
+                </edges>
+            </task>
+            <task name="task_3">
+                <high_priority>0</high_priority>
+                <core>2</core>
+                <data_size>1580</data_size>
+                <edges>
+                    <edge>
+                        <vertex>5</vertex>
+                        <weight>440</weight>
+                    </edge>
+                </edges>
+            </task>
+            <task name="task_4">
+                <high_priority>0</high_priority>
+                <core>1</core>
+                <data_size>2770</data_size>
+                <edges>
+                    <edge>
+                        <vertex>5</vertex>
+                        <weight>850</weight>
+                    </edge>
+                </edges>
+            </task>
+            <task name="task_5">
+                <high_priority>0</high_priority>
+                <core>2</core>
+                <data_size>1800</data_size>
+                <edges></edges>
+            </task>
+        </tasks>
+    </application>
+
+    <application name="app_3">
+        <execution_time_limit>11.5</execution_time_limit>
+        <computational_complexity>0.15</computational_complexity>
+        <tasks>
+            <task name="task_1">
+                <high_priority>0</high_priority>
+                <core>1</core>
+                <data_size>2150</data_size>
+                <edges>
+                    <edge>
+                        <vertex>4</vertex>
+                        <weight>680</weight>
+                    </edge>
+                    <edge>
+                        <vertex>5</vertex>
+                        <weight>600</weight>
+                    </edge>
+                </edges>
+            </task>
+            <task name="task_2">
+                <high_priority>0</high_priority>
+                <core>3</core>
+                <data_size>2480</data_size>
+                <edges>
+                    <edge>
+                        <vertex>3</vertex>
+                        <weight>750</weight>
+                    </edge>
+                    <edge>
+                        <vertex>4</vertex>
+                        <weight>810</weight>
+                    </edge>
+                </edges>
+            </task>
+            <task name="task_3">
+                <high_priority>0</high_priority>
+                <core>2</core>
+                <data_size>1200</data_size>
+                <edges>
+                    <edge>
+                        <vertex>7</vertex>
+                        <weight>330</weight>
+                    </edge>
+                </edges>
+            </task>
+            <task name="task_4">
+                <high_priority>0</high_priority>
+                <core>2</core>
+                <data_size>2600</data_size>
+                <edges>
+                    <edge>
+                        <vertex>6</vertex>
+                        <weight>800</weight>
+                    </edge>
+                </edges>
+            </task>
+            <task name="task_5">
+                <high_priority>1</high_priority>
+                <core>1</core>
+                <data_size>2330</data_size>
+                <edges>
+                    <edge>
+                        <vertex>8</vertex>
+                        <weight>760</weight>
+                    </edge>
+                </edges>
+            </task>
+            <task name="task_6">
+                <high_priority>0</high_priority>
+                <core>2</core>
+                <data_size>2720</data_size>
+                <edges>
+                    <edge>
+                        <vertex>9</vertex>
+                        <weight>880</weight>
+                    </edge>
+                </edges>
+            </task>
+            <task name="task_7">
+                <high_priority>1</high_priority>
+                <core>3</core>
+                <data_size>2550</data_size>
+                <edges>
+                    <edge>
+                        <vertex>9</vertex>
+                        <weight>830</weight>
+                    </edge>
+                </edges>
+            </task>
+            <task name="task_8">
+                <high_priority>0</high_priority>
+                <core>2</core>
+                <data_size>2100</data_size>
+                <edges></edges>
+            </task>
+            <task name="task_9">
+                <high_priority>0</high_priority>
+                <core>1</core>
+                <data_size>1900</data_size>
+                <edges></edges>
+            </task>
+        </tasks>
+    </application>
+
+    <application name="app_4">
+        <execution_time_limit>12.2</execution_time_limit>
+        <computational_complexity>0.20</computational_complexity>
+        <tasks>
+            <task name="task_1">
+                <high_priority>0</high_priority>
+                <core>2</core>
+                <data_size>1280</data_size>
+                <edges>
+                    <edge>
+                        <vertex>2</vertex>
+                        <weight>300</weight>
+                    </edge>
+                    <edge>
+                        <vertex>2</vertex>
+                        <weight>400</weight>
+                    </edge>
+                </edges>
+            </task>
+            <task name="task_2">
+                <high_priority>0</high_priority>
+                <core>3</core>
+                <data_size>1500</data_size>
+                <edges>
+                    <edge>
+                        <vertex>4</vertex>
+                        <weight>480</weight>
+                    </edge>
+                    <edge>
+                        <vertex>5</vertex>
+                        <weight>400</weight>
+                    </edge>
+                </edges>
+            </task>
+            <task name="task_3">
+                <high_priority>1</high_priority>
+                <core>2</core>
+                <data_size>1670</data_size>
+                <edges>
+                    <edge>
+                        <vertex>5</vertex>
+                        <weight>470</weight>
+                    </edge>
+                </edges>
+            </task>
+            <task name="task_4">
+                <high_priority>0</high_priority>
+                <core>1</core>
+                <data_size>2300</data_size>
+                <edges>
+                    <edge>
+                        <vertex>6</vertex>
+                        <weight>700</weight>
+                    </edge>
+                </edges>
+            </task>
+            <task name="task_5">
+                <high_priority>0</high_priority>
+                <core>1</core>
+                <data_size>1980</data_size>
+                <edges>
+                    <edge>
+                        <vertex>6</vertex>
+                        <weight>560</weight>
+                    </edge>
+                </edges>
+            </task>
+            <task name="task_6">
+                <high_priority>0</high_priority>
+                <core>2</core>
+                <data_size>1630</data_size>
+                <edges></edges>
+            </task>
+        </tasks>
+    </application>
+</applications>

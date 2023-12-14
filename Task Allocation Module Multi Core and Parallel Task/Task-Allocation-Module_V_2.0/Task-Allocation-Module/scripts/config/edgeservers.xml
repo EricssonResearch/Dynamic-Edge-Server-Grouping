@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<edgeservers>
+    <edgeserver name="edge_1">
+        <memory>15000</memory>
+        <downlink_datarate>5000</downlink_datarate>
+        <uplink_datarate>7000</uplink_datarate>
+        <cores>
+            <core name="c_1">
+                <computational_capacity>220</computational_capacity>
+            </core>
+            <core name="c_2">
+                <computational_capacity>250</computational_capacity>
+            </core>
+            <core name="c_3">
+                <computational_capacity>280</computational_capacity>
+            </core>
+            <core name="c_4">
+                <computational_capacity>210</computational_capacity>
+            </core>
+            <core name="c_5">
+                <computational_capacity>290</computational_capacity>
+            </core>
+            <core name="c_6">
+                <computational_capacity>240</computational_capacity>
+            </core>
+            <core name="c_7">
+                <computational_capacity>260</computational_capacity>
+            </core>
+            <core name="c_8">
+                <computational_capacity>230</computational_capacity>
+            </core>
+            <core name="c_9">
+                <computational_capacity>270</computational_capacity>
+            </core>
+            <core name="c_10">
+                <computational_capacity>200</computational_capacity>
+            </core>
+        </cores>
+    </edgeserver>
+
+    <edgeserver name="edge_2">
+        <memory>12500</memory>
+        <downlink_datarate>8000</downlink_datarate>
+        <uplink_datarate>6000</uplink_datarate>
+        <cores>
+            <core name="c_1">
+                <computational_capacity>260</computational_capacity>
+            </core>
+            <core name="c_2">
+                <computational_capacity>230</computational_capacity>
+            </core>
+            <core name="c_3">
+                <computational_capacity>250</computational_capacity>
+            </core>
+            <core name="c_4">
+                <computational_capacity>240</computational_capacity>
+            </core>
+            <core name="c_5">
+                <computational_capacity>270</computational_capacity>
+            </core>
+            <core name="c_6">
+                <computational_capacity>280</computational_capacity>
+            </core>
+            <core name="c_7">
+                <computational_capacity>210</computational_capacity>
+            </core>
+            <core name="c_8">
+                <computational_capacity>220</computational_capacity>
+            </core>
+        </cores>
+    </edgeserver>
+
+    <edgeserver name="edge_3">
+        <memory>10800</memory>
+        <downlink_datarate>6000</downlink_datarate>
+        <uplink_datarate>10000</uplink_datarate>
+        <cores>
+            <core name="c_1">
+                <computational_capacity>270</computational_capacity>
+            </core>
+            <core name="c_2">
+                <computational_capacity>250</computational_capacity>
+            </core>
+            <core name="c_3">
+                <computational_capacity>230</computational_capacity>
+            </core>
+            <core name="c_4">
+                <computational_capacity>260</computational_capacity>
+            </core>
+            <core name="c_5">
+                <computational_capacity>240</computational_capacity>
+            </core>
+            <core name="c_6">
+                <computational_capacity>220</computational_capacity>
+            </core>
+        </cores>
+    </edgeserver>
+</edgeservers>
